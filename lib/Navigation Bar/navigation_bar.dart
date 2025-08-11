@@ -17,7 +17,7 @@ class _NavigationBarPageState extends State<NavigationBarPage> {
   int _currentIndex = 0;
 
   final List<Widget> _pages = [
-    HomePage(),     // Replace these with your actual page widgets
+    HomePage(),    
     HomePage(),
     FavPage(),
     ProfilePage(),
